@@ -26,8 +26,7 @@ class PervoeDZ {
             System.out.println("Yellow");
         } else {
             System.out.println("Green");
-        }
-		
+        }	
     }
 	
     static void compareNumbers() {
