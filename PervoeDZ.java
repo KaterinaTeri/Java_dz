@@ -1,3 +1,10 @@
+/**
+* Java 1/ Homework #1
+*
+* @author Ekaterina Dumskaya
+* @version 10.12.2021
+*
+*/
 class PervoeDZ {
     public static void main(String[] args) {
         printThreeWords();
