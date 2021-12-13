@@ -23,7 +23,10 @@ class VtoroeDz {
     }
 
     static boolean returnTrueOrFalse(int a) {
-        return a >= 0;
+        if (a >=0) {
+            return false;
+        }
+        return true;
     }
     
     static void printText(String str, int a) {
