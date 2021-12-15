@@ -25,7 +25,7 @@ class TretieDz {
             }
         System.out.print(binar[i] + " ");
         } 
-		System.out.println();
+	System.out.println();
     }
     
     static void fillMassive() {
@@ -88,5 +88,4 @@ class TretieDz {
         System.out.println("Minimum number = " + minN);
         System.out.println("Maximum number = " + maxN);
     }
-
 }
